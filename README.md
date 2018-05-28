@@ -14,8 +14,8 @@ Use the install script.
 
 ```sudo swift install.swift```
 
-## Structure
-![Service Xcode Template](https://github.com/crelies/Service-Xcode-Template/blob/fe4b613e96cd954f5c670786587b9b5829282d92/architecture.png?raw=true)
+## Architecture
+![Architecture of Service Xcode Template](https://github.com/crelies/Service-Xcode-Template/blob/develop/architecture.png?raw=true)
 
 ## 🤖 Author
 
