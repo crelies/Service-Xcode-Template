@@ -10,8 +10,6 @@
 	<array>
 		<string>com.apple.platform.iphoneos</string>
 	</array>
-	<key>DefaultCompletionName</key>
-	<string>ServiceName</string>
 	<key>Description</key>
 	<string>A template for easily creating new services</string>
 	<key>Kind</key>
@@ -42,7 +40,7 @@
 			<key>Default</key>
 			<string>___VARIABLE_SERVICENAME___</string>
 			<key>Identifier</key>
-			<string>PRODUCTNAME</string>
+			<string>productName</string>
 			<key>Type</key>
 			<string>static</string>
 		</dict>
