@@ -19,7 +19,7 @@
 	<key>SortOrder</key>
 	<integer>0</integer>
 	<key>Template Author</key>
-	<string>Christian Elies @ 2018</string>
+	<string>Christian Elies @ 2019</string>
 	<key>Options</key>
 	<array>
 		<dict>
@@ -43,6 +43,34 @@
 			<string>productName</string>
 			<key>Type</key>
 			<string>static</string>
+		</dict>
+		<dict>
+			<key>Description</key>
+			<string>Create mock implementations</string>
+			<key>Default</key>
+			<string>true</string>
+			<key>Identifier</key>
+			<string>CreateMockImplementations</string>
+			<key>Name</key>
+			<string>Create mock implementations</string>
+			<key>Required</key>
+			<string>YES</string>
+			<key>Type</key>
+			<string>checkbox</string>
+		</dict>
+		<dict>
+			<key>Description</key>
+			<string>Create unit test file</string>
+			<key>Default</key>
+			<string>true</string>
+			<key>Identifier</key>
+			<string>CreateUnitTestFile</string>
+			<key>Name</key>
+			<string>Create unit test file</string>
+			<key>Required</key>
+			<string>YES</string>
+			<key>Type</key>
+			<string>checkbox</string>
 		</dict>
 		<dict>
 			<key>Description</key>
