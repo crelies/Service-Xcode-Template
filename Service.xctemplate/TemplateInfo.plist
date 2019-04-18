@@ -46,13 +46,13 @@
 		</dict>
 		<dict>
 			<key>Description</key>
-			<string>Create mock implementations</string>
+			<string>Including mock implementations</string>
 			<key>Default</key>
 			<string>true</string>
 			<key>Identifier</key>
 			<string>CreateMockImplementations</string>
 			<key>Name</key>
-			<string>Create mock implementations</string>
+			<string>Including mock implementations</string>
 			<key>Required</key>
 			<string>YES</string>
 			<key>Type</key>
@@ -60,13 +60,13 @@
 		</dict>
 		<dict>
 			<key>Description</key>
-			<string>Create unit test file</string>
+			<string>Including unit test</string>
 			<key>Default</key>
 			<string>true</string>
 			<key>Identifier</key>
 			<string>CreateUnitTestFile</string>
 			<key>Name</key>
-			<string>Create unit test file</string>
+			<string>Including unit test</string>
 			<key>Required</key>
 			<string>YES</string>
 			<key>Type</key>
