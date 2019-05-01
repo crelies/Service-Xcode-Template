@@ -8,6 +8,8 @@ This is my protocol oriented way of creating new services in my iOS projects.
 
 The template includes dependency injection via protocols and creates a mock version of your service.
 
+![Xcode dialog](https://github.com/crelies/Service-Xcode-Template/blob/develop/Xcode-dialog.png)
+
 ## How to use 🛠
 
 Use the install script.
@@ -15,6 +17,7 @@ Use the install script.
 ```sudo swift install.swift```
 
 ## Architecture
+
 ![Architecture of Service Xcode Template](https://github.com/crelies/Service-Xcode-Template/blob/develop/architecture.png?raw=true)
 
 ## 🤖 Author
